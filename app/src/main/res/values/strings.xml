@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidArchitectures</string>
+    <string name="label_mvc">MVC</string>
+    <string name="label_mvp">MVP</string>
+    <string name="label_mvvm">MVVM</string>
+    <string name="title_mvc">MVC Architecture</string>
+    <string name="title_mvp">MVP Architecture</string>
+    <string name="title_mvvm">MVVM Architecture</string>
 </resources>
