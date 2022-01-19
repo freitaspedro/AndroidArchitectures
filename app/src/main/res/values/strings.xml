@@ -6,4 +6,6 @@
     <string name="title_mvc">MVC Architecture</string>
     <string name="title_mvp">MVP Architecture</string>
     <string name="title_mvvm">MVVM Architecture</string>
+    <string name="retry">Retry</string>
+    <string name="error_message">Unable to get country names. Please retry later</string>
 </resources>
