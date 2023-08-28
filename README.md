@@ -1,7 +1,7 @@
 # Android Architectures
 
-<img align="right" src="https://github.com/freitaspedro/AndroidArchitectures/raw/main/assets/android-architectures.png" width="200">
 <img align="right" src="https://github.com/freitaspedro/AndroidArchitectures/raw/main/assets/android-architectures-mvvm.png" width="200">
+<img align="right" src="https://github.com/freitaspedro/AndroidArchitectures/raw/main/assets/android-architectures.png" width="200">
 
 It´s a sample app for study several topics related to MVC, MVP and MVVM:
 
